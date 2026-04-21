@@ -1,0 +1,12 @@
+{
+    "display_name": "iMessage",
+    "loading_order": 15,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "ncyc787-arch",
+    "version": "1.0.0",
+    "homePage": "",
+    "auto_update": false
+}
